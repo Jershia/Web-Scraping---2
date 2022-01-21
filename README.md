@@ -11,7 +11,7 @@
   * *We installed the necessary libraries.*
   * *We imported the selenium and Beautiful soup in our code.*
   * *We added a new hyperlink to the header.*
-  * 
+  
 ## Code is given below
 ### *Code for importing libraries :*
 ````
