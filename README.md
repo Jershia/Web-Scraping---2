@@ -6,7 +6,7 @@
   * Usage of Beautiful soup
   * Getting data from Html of a page
 
-## Steps To Create A Live Image Prediction
+## Steps To Scrape data
   * *We created a virtual environment.*
   * *We installed the necessary libraries.*
   * *We imported the selenium and Beautiful soup in our code.*
